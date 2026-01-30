@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Prasanna 👋
+### Interior Designer | 3D Visualization Specialist
 
-<!--
-**Prasannapraz/Prasannapraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📐 About Me
+I am an Interior Designer focused on transforming conceptual ideas into photorealistic digital environments. I bridge the gap between technical AutoCAD documentation and high-end visual presentations using 3ds Max and Lumion.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🏢 **Design Focus:** Modern Residential Interiors
+* 🎨 **Expertise:** Spatial planning, lighting design, and post-production.
+* 📍 **Based in:** Chennai, India
+
+---
+
+## 🛠️ My Design Stack
+| Phase | Tools |
+| :--- | :--- |
+| **Drafting** | AutoCAD |
+| **3D Modeling** | SketchUp, 3ds Max |
+| **Rendering** | Lumion, 3ds Max (V-Ray) |
+| **Graphics** | Adobe Photoshop, Canva |
+
+---
+
+## 📂 Featured Workflows
+* **[Project Name 1]** - From 2D AutoCAD plans to 3D SketchUp models and final Lumion walkthroughs.
+* **[Project Name 2]** - Detailed interior styling and high-fidelity rendering using 3ds Max and Photoshop.
+
+---
+
+## 📫 Let's Connect
+* **LinkedIn:** linkedin.com/in/prasanna-muralikrishnan
+* **Email:** Prasannapraz98@gmail.com
+* **Portfolio:** [Link to your Canva or Behance site]

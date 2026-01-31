@@ -1,5 +1,5 @@
 # Hi, I'm Prasanna 👋
-### Interior Designer | 3D Visualization Specialist
+### Architect Interior Designer | 3D Visualization Specialist
 
 ---
 

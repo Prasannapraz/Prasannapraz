@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/Prasannapraz/Prasannapraz/blob/main/Profile-Banner?raw=true" alt="Prasanna Architecture Portfolio Banner" width="100%">
+</p>
 # Hi, I'm Prasanna 👋
 ### Architect Interior Designer | 3D Visualization Specialist
 
